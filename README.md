@@ -54,7 +54,7 @@ npm start
 ## 📸 Screenshots
 
 ![Login Page](./Auth.png)
-![Dashboard](./dashboard.png)
+![Dashboard](./Auth2.png)
 
 ---
 
