@@ -53,7 +53,7 @@ npm start
 
 ## 📸 Screenshots
 
-![Login Page](./login.png)
+![Login Page](./Auth.png)
 ![Dashboard](./dashboard.png)
 
 ---
